@@ -18,6 +18,8 @@ This place is mostly going to be all the research/information dump on network to
 
 3. [Reverse engineering APIs] (http://www.toptal.com/back-end/reverse-engineering-the-private-api-hacking-your-couch)
 
+4. [Use SSLsplit](https://blog.heckel.xyz/2013/08/04/use-sslsplit-to-transparently-sniff-tls-ssl-connections/)
+
 
 **Kali Linux :**
 
@@ -30,3 +32,6 @@ Default values are :
 username: root
 password : toor
 
+####Tips:
+
+* Use Fn+Option key to select test of the response in the MITM proxy, this is specifically for MITM proxy.
