@@ -16,7 +16,7 @@ This place is mostly going to be all the research/information dump on network to
 
 2. [Sniff iPhone HTTP Traffic using mitmproxy](http://blog.just2us.com/2012/05/sniff-iphone-http-traffic-using-mitmproxy/)
 
-
+3. [Reverse engineering APIs] (http://www.toptal.com/back-end/reverse-engineering-the-private-api-hacking-your-couch)
 
 
 **Kali Linux :**
