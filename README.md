@@ -34,4 +34,4 @@ password : toor
 
 ####Tips:
 
-* Use Fn+Option key to select test of the response in the MITM proxy, this is specifically for MITM proxy.
+* Use Fn+Option key to select test of the response in the MITM proxy, this is specifically for MITM proxy, Mac Os
