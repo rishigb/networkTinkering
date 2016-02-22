@@ -11,7 +11,15 @@ This place is mostly going to be all the research/information dump on network to
 ####Installation
  `pip install mitmproxy`
 
-Kali Linux :
+#####Some Interesting tutorials
+1. [How To: Use mitmproxy to read and modify HTTPS traffic](https://blog.heckel.xyz/2013/07/01/how-to-use-mitmproxy-to-read-and-modify-https-traffic-of-your-phone/)
+
+2. [Sniff iPhone HTTP Traffic using mitmproxy](http://blog.just2us.com/2012/05/sniff-iphone-http-traffic-using-mitmproxy/)
+
+
+
+
+**Kali Linux :**
 
 I have installed it in a VirtualBox. You can download the VB file from the downloads sections. Here is how you unzip it:
 `brew install p7zip`
