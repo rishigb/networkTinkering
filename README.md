@@ -35,3 +35,5 @@ password : toor
 ####Tips:
 
 * Use Fn+Option key to select test of the response in the MITM proxy, this is specifically for MITM proxy, Mac Os
+* [BLE Sniffer] (http://www.tenettech.com/product/6874/bluefruit-le-friend-bluetooth-low-energy-ble-40-nrf51822-v10) 
+* [Wifi Module] (http://www.amazon.in/Alfa-AWUS036H-802-11b-Wireless-network/dp/B002WCEWU8) 
