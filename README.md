@@ -37,3 +37,9 @@ password : toor
 * Use Fn+Option key to select test of the response in the MITM proxy, this is specifically for MITM proxy, Mac Os
 * [BLE Sniffer] (http://www.tenettech.com/product/6874/bluefruit-le-friend-bluetooth-low-energy-ble-40-nrf51822-v10) 
 * [Wifi Module] (http://www.amazon.in/Alfa-AWUS036H-802-11b-Wireless-network/dp/B002WCEWU8) 
+
+####Process:
+
+1. Start tinkering around and reading the data packets going through the app to the cloud using MITM Proxy.
+
+2. All the updates on MITM will give you the GET and POST request links, one you have the link, you can use POSTMAN to see what kind of data is coming through and what it means and how can we break it down.
