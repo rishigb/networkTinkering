@@ -20,6 +20,7 @@ This place is mostly going to be all the research/information dump on network to
 
 4. [Use SSLsplit](https://blog.heckel.xyz/2013/08/04/use-sslsplit-to-transparently-sniff-tls-ssl-connections/)
 
+5. [HTTPS](https://blog.heckel.xyz/2013/07/01/how-to-use-mitmproxy-to-read-and-modify-https-traffic-of-your-phone/) traffic interception.
 
 **Kali Linux :**
 
